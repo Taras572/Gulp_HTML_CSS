@@ -1,1 +1,2 @@
-# Gulp_HTML_CSS
+# gulp-base
+Create base gulp project
